@@ -1594,6 +1594,11 @@ alphanum-sort@^1.0.2:
   resolved "https://registry.yarnpkg.com/alphanum-sort/-/alphanum-sort-1.0.2.tgz#97a1119649b211ad33691d9f9f486a8ec9fbe0a3"
   integrity sha1-l6ERlkmyEa0zaR2fn0hqjsn74KM=
 
+angular@^1.8.2:
+  version "1.8.2"
+  resolved "https://registry.yarnpkg.com/angular/-/angular-1.8.2.tgz#5983bbb5a9fa63e213cb7749199e0d352de3a2f1"
+  integrity sha512-IauMOej2xEe7/7Ennahkbb5qd/HFADiNuLSESz9Q27inmi32zB0lnAsFeLEWcox3Gd1F6YhNd1CP7/9IukJ0Gw==
+
 ansi-colors@4.1.1:
   version "4.1.1"
   resolved "https://registry.yarnpkg.com/ansi-colors/-/ansi-colors-4.1.1.tgz#cbb9ae256bf750af1eab344f229aa27fe94ba348"
@@ -2009,6 +2014,11 @@ bootstrap@^4.5.3:
   version "4.6.0"
   resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.6.0.tgz#97b9f29ac98f98dfa43bf7468262d84392552fd7"
   integrity sha512-Io55IuQY3kydzHtbGvQya3H+KorS/M9rSNyfCGCg9WZ4pyT/lCxIlpJgG1GXW/PswzC84Tr2fBYi+7+jFVQQBw==
+
+bootswatch@^5.1.0:
+  version "5.1.0"
+  resolved "https://registry.yarnpkg.com/bootswatch/-/bootswatch-5.1.0.tgz#a9c521226aef55bba96b2854ef6fe39737b24f1a"
+  integrity sha512-HwQjahQSq0u+ydqY0fFyl/GsJIHhBvzjBA8D2XvMvIrHdqYfL1LdD5bnnaEDoJugMCYGud9PQSgq/XkuyFFPMg==
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -5604,6 +5614,13 @@ ngx-bootstrap@7.0.0:
   dependencies:
     tslib "^2.0.0"
 
+ngx-spinner@11.0.2:
+  version "11.0.2"
+  resolved "https://registry.yarnpkg.com/ngx-spinner/-/ngx-spinner-11.0.2.tgz#7225e6de56d1f2f5f332cad6a7e087b758ca9499"
+  integrity sha512-F38W6Fow2BdIXz6V69to5lRje+woUKmJ+TByp6M/Z0osl4gzieOcUdHvu72BO4tKTLh6UgrbS1Owxj9uZ3CjKQ==
+  dependencies:
+    tslib "^2.0.0"
+
 ngx-toastr@11.3.2:
   version "11.3.2"
   resolved "https://registry.yarnpkg.com/ngx-toastr/-/ngx-toastr-11.3.2.tgz#0e18aefee90fc273c55f912254077fcadf92740f"
@@ -6221,6 +6238,11 @@ pnp-webpack-plugin@1.6.4:
   integrity sha512-7Wjy+9E3WwLOEL30D+m8TSTF7qJJUJLONBnwQp0518siuMxUQUbgZwssaFX+QKlZkjHZcw/IpZCt/H0srrntSg==
   dependencies:
     ts-pnp "^1.1.6"
+
+popper.js@^1.16.1:
+  version "1.16.1"
+  resolved "https://registry.yarnpkg.com/popper.js/-/popper.js-1.16.1.tgz#2a223cb3dc7b6213d740e40372be40de43e65b1b"
+  integrity sha512-Wb4p1J4zyFTbM+u6WuO4XstYx4Ky9Cewe4DWrel7B0w6VVICvPwdOpotjzcf6eD8TsckVnIMNONQyPIUFOUbCQ==
 
 portfinder@^1.0.26:
   version "1.0.28"
@@ -7048,6 +7070,11 @@ rollup@2.38.4:
   integrity sha512-B0LcJhjiwKkTl79aGVF/u5KdzsH8IylVfV56Ut6c9ouWLJcUK17T83aZBetNYSnZtXf2OHD4+2PbmRW+Fp5ulg==
   optionalDependencies:
     fsevents "~2.3.1"
+
+route@^0.2.5:
+  version "0.2.5"
+  resolved "https://registry.yarnpkg.com/route/-/route-0.2.5.tgz#edd77b83909187266c7674e2938fd994fba009ec"
+  integrity sha1-7dd7g5CRhyZsdnTik4/ZlPugCew=
 
 run-async@^2.4.0:
   version "2.4.1"
